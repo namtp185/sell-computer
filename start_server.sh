@@ -1,0 +1,1 @@
+cd ~/nodejs/node-express-realworld-example-app && npm start
